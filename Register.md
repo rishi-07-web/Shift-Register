@@ -21,7 +21,7 @@ module shift_reg (
             endcase
         end
     end
-endmodule
+    endmodule
 
 # Testbench
 module shift_reg_tb;
@@ -52,4 +52,4 @@ module shift_reg_tb;
         
         #20 $stop;
     end
-endmodule
+    endmodule
