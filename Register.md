@@ -53,3 +53,8 @@ module shift_reg_tb;
         #20 $stop;
     end
     endmodule
+
+    
+<img width="1600" height="486" alt="WhatsApp Image 2026-04-22 at 12 17 18 PM" src="https://github.com/user-attachments/assets/70ca1095-daf5-4e1e-b9d2-f52cf5112be0" />
+    
+
